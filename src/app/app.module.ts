@@ -14,13 +14,13 @@ import { AngularFireDatabaseModule } from '@angular/fire/database';
 
 
 var firebaseConfig = {
-  apiKey: "AIzaSyAAV_L_aedj-15VfUEQRZa7s5zvaoqhXKc",
-  authDomain: "netflix-40a5e.firebaseapp.com",
-  databaseURL: "https://netflix-40a5e.firebaseio.com",
-  projectId: "netflix-40a5e",
-  storageBucket: "netflix-40a5e.appspot.com",
-  messagingSenderId: "9902124042",
-  appId: "1:9902124042:web:259b9786c3f365f77343f3"
+  apiKey: "",
+  authDomain: "",
+  databaseURL: "",
+  projectId: "",
+  storageBucket: "",
+  messagingSenderId: "",
+  appId: ""
 };
 
 
